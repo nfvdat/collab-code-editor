@@ -1,10 +1,16 @@
+### Overview
+
 A simple Web-based collaborative code editor built using React, Node and Websockets.
 
 Users can create a room, or join an existing room via room ID, and edit code collaboratively in real-time.
 
 ### Demo
 
-![demo](https://github.com/nfvdat/collab-code-editor/assets/139157490/f101ecfb-cbf6-454e-967a-5e32b9ab48f7)
+
+
+https://github.com/nfvdat/collab-code-editor/assets/139157490/a92e922d-8acf-419e-a35c-721691c28374
+
+
 
 ### How to Run
 
