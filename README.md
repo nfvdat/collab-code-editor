@@ -1,8 +1,10 @@
 ## Overview
 
-A simple Web-based collaborative code editor built using React, Node and Websockets.
-
-Users can create a room, or join an existing room via room ID, and edit code collaboratively in real-time.
+A simple collaborative code editor built using React, Node and Websockets.
+- Users can create a room, or join an existing room via invite.
+- Allows for Web-based collaborative programming in realtime.
+- Supports a choice of programming languages.
+- A list of users currently in a room is shown and notifications are sent when someone joins or leaves.
 
 ## Demo
 
